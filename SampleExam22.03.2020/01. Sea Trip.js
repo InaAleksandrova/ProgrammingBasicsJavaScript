@@ -5,7 +5,7 @@ function seaTrip(input) {
     let distance = 2 * 210;
     let gasMoney = (distance / 100 * 7) * 1.85;
     let stayFoodMoney = 3 * foodMoneyPerDay;
-    let souvernirsMoney = 3 * souvernirsMoneyPerDay;
+    let souvernirsMoney = 3 * souvernirsMoneyPerDay
     let hotelMoneyDay1 = 0.9 * hotelMoneyPerNight;
     let hotelMoneyDay2 = 0.85 * hotelMoneyPerNight;
     let hotelMoneyDay3 = 0.80 * hotelMoneyPerNight;
